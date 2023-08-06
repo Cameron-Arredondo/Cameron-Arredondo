@@ -1,4 +1,7 @@
 # Welcome 👋
+## About Me
+I am an Applicaton Security Engineer with a Masters in Information Technolgy with a focus in Cyber Security
+
 
 
 <!--
