@@ -1,6 +1,6 @@
 # Welcome 👋
 ## About Me
-I am an Applicaton Security Engineer with a Masters in Information Technolgy concentrated in Cyber Security
+I am an Applicaton Security Engineer with a Masters in Information Technology concentrated in Cyber Security
 
 
 
